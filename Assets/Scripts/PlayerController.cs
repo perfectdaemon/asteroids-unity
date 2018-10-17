@@ -21,7 +21,7 @@ public class PlayerController : MonoBehaviour
     private float _rotateInput;
 
     /// <summary>
-    /// /// Переменная для хранения пользовательского ввода ускорения
+    /// Переменная для хранения пользовательского ввода ускорения
     /// </summary>
     private float _speedInput;
 
